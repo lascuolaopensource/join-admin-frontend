@@ -1,2 +1,3 @@
-# join-admin-frontend
-Admin Frontend del Gestionale per nuove istituzioni
+# SOS - UI admin
+
+Gli step sono identici a quelli per la UI pubblica.
