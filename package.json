@@ -4,8 +4,7 @@
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
-    "install": "napa",
-    "postinstall": "ng build --aot -prod",
+    "config": "node config-env.js",
     "start": "node server.js",
     "lint": "ng lint",
     "serve": "ng serve --port 4300"
@@ -48,6 +47,8 @@
     "@types/lodash": "ts2.3",
     "@types/node": "~6.0.60",
     "codelyzer": "~2.0.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
     "jasmine-core": "~2.5.2",
     "jasmine-spec-reporter": "~3.2.0",
     "karma": "~1.4.1",
