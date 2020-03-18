@@ -1,4 +1,4 @@
-# SOS - UI admin
+# Join - Admin Frontend
 
 ### Dependendcies
 In order to get dependencies you will need npm and nodejs.
